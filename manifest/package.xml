@@ -49,11 +49,11 @@
     <members>Lead</members>
     <name>AutoResponseRules</name>
   </types>
-  <types>
+  <!--types>
     <members>kris_SelfSigned</members>
     <members>krisTestCert</members>
     <name>Certificate</name>
-  </types>
+  </types-->
   <types>
     <members>DataCloudGeoLocation</members>
     <name>CleanDataService</name>
