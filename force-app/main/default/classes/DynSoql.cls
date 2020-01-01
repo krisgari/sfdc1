@@ -1,4 +1,5 @@
 public class DynSoql {
+    //Testing vscode
     public static void test(){
         Sobject s = new Account();
         System.debug(s.getsObjectType() == Account.sObjectType);
